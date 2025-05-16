@@ -70,7 +70,6 @@ void NodeInsertion()
 void NodeTraversal()
 {
     struct Tree *ptr;
-
 }
 int main()
 {
@@ -99,3 +98,5 @@ int main()
     }
     while(key!=4)
     }
+
+
